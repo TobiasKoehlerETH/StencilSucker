@@ -1,6 +1,6 @@
 # Stencil Sucker
 
-PCB stencil fixation using a vacuum cleaner to compress springs that release the stencil once finished. Adapted from https://github.com/scheffield/stencil-fix. Redrawn in SolidWorks from scratch.
+PCB stencil fixation using a vacuum cleaner to compress springs that release the stencil once finished. Once the vacuum is removed, the springs quickly push the stencil up, preventing smearing. Adapted from https://github.com/scheffield/stencil-fix. Redrawn in SolidWorks from scratch.
 
 ## Specifications
 
