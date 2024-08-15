@@ -4,8 +4,8 @@ PCB stencil fixation using a vacuum cleaner to compress springs that release the
 
 ## Specifications
 
-**Maximum PCB Size by default:** 150x180mm
-**Maximum Stencil Size by default:** 181x211mm
+**Maximum PCB Size by default:** 140x170mm
+**Maximum Stencil Size by default:** 170x200mm
 
 ## Bill of Materials (BOM)
 
